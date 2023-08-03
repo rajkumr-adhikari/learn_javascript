@@ -1,3 +1,1 @@
-
-
-console.log("testing first app")
+//variable and constants
