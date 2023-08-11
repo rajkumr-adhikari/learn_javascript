@@ -7,8 +7,8 @@ accountCity = "Ktm"
 accountEmail = "change@gmail.com"
 accountPassword = "abc"
 accountCity = "city"
-
 console.log(accountId)
 console.table([accountId,accountEmail,accountPassword,accountCity])
+console.log("test")
 
 
