@@ -38,3 +38,19 @@ console.log(booleanValue)
 "" false
 "raj" true
 */
+
+//**************Operations******************** 
+
+let value = 3
+let negValue = -value
+console.log(negValue)
+console.log(negValue)
+
+
+console.log(+true)
+console.log(+"")
+
+let gameCounter = 100
+gameCounter++
+
+console.log(gameCounter)
