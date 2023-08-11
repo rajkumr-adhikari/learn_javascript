@@ -31,3 +31,9 @@ const myFunction = function(){
 }
 console.log(typeof myFunction)
 
+/*
+stack primitive
+
+heap non primitive
+*/
+
